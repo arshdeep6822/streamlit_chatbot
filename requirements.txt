@@ -6,3 +6,5 @@ streamlit
 langchain_core
 dotenv
 duckduckgo-search
+tiktoken
+ddg-search
