@@ -5,3 +5,4 @@ langgraph
 streamlit
 langchain_core
 dotenv
+duckduckgo-search
